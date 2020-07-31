@@ -1,0 +1,9 @@
+{
+    "name": "Google Emailer reference",
+    "description": "Google Emailer reference development",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0",
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
